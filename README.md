@@ -27,6 +27,3 @@ Select Add .gitignore, then choose the Go template.
 Leave remaining settings as default and click Create repository.
 
 2. Open the repository in the GitHub Web Editor
-
-Press . (dot) on your keyboard inside the repository, or
-Change the URL from github.com ➝ github.dev
